@@ -12,9 +12,6 @@
   <a href="https://www.tiktok.com/@bogdanctx" target="_blank" rel="nofollow">
       <img src="https://github.com/Bogdanctx/bogdanctx/blob/main/tiktok.svg" alt="TikTok" width="32" align="center">
    </a>
-   <a href="https://bogdanctx.github.io" target="_blank" rel="nofollow">
-      <img src="https://github.com/Bogdanctx/bogdanctx/blob/main/site.png" alt="Website" width="32" align="center">
-   </a>
 </p>
 
 <p align="center">
