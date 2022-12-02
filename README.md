@@ -1,4 +1,21 @@
-![](https://komarev.com/ghpvc/?username=bogdanctx&color=blueviolet)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bogdanctx&theme=omni">
+</div>
+
+---
+
+<p align="center">
+   <a href="https://discord.com/users/274838359543775232" target="_blank" rel="nofollow">
+      <img src="https://lanyard.cnrad.dev/api/274838359543775232" alt="Discord Presence" align="center">
+   </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bogdanctx&color=blueviolet">
+</div>
+
 <p align="center">
    <a href="https://discord.gg/QHYFpdTjvv" target="_blank" rel="nofollow">
       <img src="https://github.com/Bogdanctx/bogdanctx/blob/main//discord.svg" alt="Discord" width="32" align="center">
@@ -14,11 +31,6 @@
    </a>
 </p>
 
-<p align="center">
-   <a href="https://discord.com/users/274838359543775232" target="_blank" rel="nofollow">
-      <img src="https://lanyard.cnrad.dev/api/274838359543775232" alt="Discord Presence" align="center">
-   </a>
-</p>
 <!--
 **Bogdanctx/bogdanctx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
