@@ -1,4 +1,4 @@
-![]("https://komarev.com/ghpvc/?username=bogdanctx&color=blueviolet")
+![](https://komarev.com/ghpvc/?username=bogdanctx&color=blueviolet)
 <p align="center">
    <a href="https://discord.com/users/274838359543775232" target="_blank" rel="nofollow">
       <img src="https://github.com/Bogdanctx/bogdanctx/blob/main//discord.svg" alt="Discord" width="32" align="center">
