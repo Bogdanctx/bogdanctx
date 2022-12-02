@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=bogdanctx&color=blueviolet)
 <p align="center">
-   <a href="https://discord.com/users/274838359543775232" target="_blank" rel="nofollow">
+   <a href="https://discord.gg/QHYFpdTjvv" target="_blank" rel="nofollow">
       <img src="https://github.com/Bogdanctx/bogdanctx/blob/main//discord.svg" alt="Discord" width="32" align="center">
    </a>
    <a href="https://www.youtube.com/@bogdan2234" target="_blank" rel="nofollow">
@@ -11,6 +11,9 @@
    </a>
   <a href="https://www.tiktok.com/@bogdanctx" target="_blank" rel="nofollow">
       <img src="https://github.com/Bogdanctx/bogdanctx/blob/main/tiktok.svg" alt="TikTok" width="32" align="center">
+   </a>
+   <a href="https://bogdanctx.github.io" target="_blank" rel="nofollow">
+      <img src="https://github.com/Bogdanctx/bogdanctx/blob/main/site.png" alt="Website" width="32" align="center">
    </a>
 </p>
 
