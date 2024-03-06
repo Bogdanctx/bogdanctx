@@ -16,21 +16,6 @@
   <img src="https://komarev.com/ghpvc/?username=bogdanctx&color=blueviolet">
 </div>
 
-<p align="center">
-   <a href="https://discord.gg/QHYFpdTjvv" target="_blank" rel="nofollow">
-      <img src="https://github.com/Bogdanctx/bogdanctx/blob/main//discord.svg" alt="Discord" width="32" align="center">
-   </a>
-   <a href="https://www.youtube.com/@bogdan2234" target="_blank" rel="nofollow">
-      <img src="https://github.com/Bogdanctx/bogdanctx/blob/main//youtube.svg" alt="YouTube" width="32" align="center">
-   </a>
-   <a href="https://steamcommunity.com/profiles/76561198153944670/" target="_blank" rel="nofollow">
-      <img src="https://github.com/Bogdanctx/bogdanctx/blob/main//steam.svg" alt="Steam" width="32" align="center">
-   </a>
-  <a href="https://www.tiktok.com/@bogdanctx" target="_blank" rel="nofollow">
-      <img src="https://github.com/Bogdanctx/bogdanctx/blob/main/tiktok.svg" alt="TikTok" width="32" align="center">
-   </a>
-</p>
-
 <!--
 **Bogdanctx/bogdanctx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
